@@ -26,6 +26,7 @@ A Python script that connects to your existing Notion workspace to automate onbo
    - Copy the **Internal Integration Secret**
 
 2. **Create Notion databases** with these property names:
+   <img width="975" height="679" alt="Screenshot 2025-08-14 at 1 01 58 PM" src="https://github.com/user-attachments/assets/6d52f681-8732-4d28-8b03-b0e7eb0f66e0" />
 
 ⚠ **Property names must match exactly** as above, or the script will fail.
 
